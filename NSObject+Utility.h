@@ -5,6 +5,8 @@
 //  Created by uyi on 2017/4/25.
 //  Copyright © 2017年 GCHShoppingGuide. All rights reserved.
 //
+//网络数据的请求与调试
+//https://api.westtraveller.com/?c=Spot&a=api_map_list
 
 #import <Foundation/Foundation.h>
 
